@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "scheduling-agent-key-1",
+      "n": "i0YNY6cOh0y_izl_hxuUAaDSMBN_FkMvPnnUvwuoY4S_M1RYZwEWu9NmsJ95Y_liBGUGiHMBZb5QPoHv29b8vz74wKsv61xDFDndAwQmuzyKhP5_LNVgH-9ywhFxrEjndgF4-48j03QrMvAE0b86rUQudTZmreUPdbsalprWmUrF1t66pldd55Xk3RvMgNtKd9NsyDupdC-sUUg0JSCOoECJFzt8h-lisVMTF41vmC0rxZ2Ul-ilx_gc9cmRxmHWG8h-kKpFClJmi-qnCISnDbCen_wuTdeEtK1dIUWVyN3c40Vp3Nn_dFGwOX-51XtkSRjFUkEEO075SjnbsU-NTQ",
+      "e": "AQAB"
+    }
+  ]
+}
